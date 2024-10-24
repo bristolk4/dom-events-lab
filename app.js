@@ -105,3 +105,5 @@ const operator = (operatorType) => {
 }
 
 // parseInt makes string into integer
+
+//COME BACK AND ADD NOTES
